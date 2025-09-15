@@ -1,5 +1,6 @@
 # MR-Oficina
-Essa atividade tinha como desafio criar um esquema conceitual para o contexto de oficina com base na narrativa fornecida.
+Essa atividade tinha como desafio criar um esquema conceitual para o contexto de oficina com base na narrativa fornecida. 
+> O arquivo do modelo relacional está disponível na página main para download
 
 Ferramentas utilizadas: 
 
